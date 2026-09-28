@@ -62,19 +62,10 @@ The objective of this project is to develop a reproducible analysis that identif
 
 The Power BI dashboard was designed to explore automobile theft from three analytical perspectives:
 
+1. **Geographic Risk** — identifies municipalities with the highest registered volume of automobile theft.
+2. **Risk Trends** — analyzes historical evolution and year-over-year changes.
+3. **Violence Modality** — compares violent and non-violent automobile theft.
 
+### Geographic Risk
 
-1\. \*\*Geographic Risk\*\* — identifies municipalities with the highest registered volume of automobile theft.
-
-2\. \*\*Risk Trends\*\* — analyzes historical evolution and year-over-year changes.
-
-3\. \*\*Violence Modality\*\* — compares violent and non-violent automobile theft.
-
-
-
-\### Geographic Risk
-
-
-
-!\[Geographic Risk Dashboard](dashboard/screenshots/01_riesgo_geografico.jpg)
-
+![Geographic Risk Dashboard](dashboard/screenshots/01_riesgo_geografico.jpg)
