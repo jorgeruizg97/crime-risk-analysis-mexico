@@ -76,5 +76,5 @@ The Power BI dashboard was designed to explore automobile theft from three analy
 
 
 
-!\[Geographic Risk Dashboard](dashboard/screenshots/01\_riesgo\_geografico.jpg)
+!\[Geographic Risk Dashboard](dashboard/screenshots/01_riesgo_geografico.jpg)
 
